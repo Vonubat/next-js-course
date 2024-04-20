@@ -1,2 +1,2 @@
-# next-js-course
+# nextjs-dashboard
 Next.js App Router course
